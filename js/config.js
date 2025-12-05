@@ -84,10 +84,6 @@ const API_SITES = {
     wwzy: {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
-    },
-    lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod/',
-        name: '量子资源站'
     }
 };
 
